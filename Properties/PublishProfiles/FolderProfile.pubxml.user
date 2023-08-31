@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\thana\OneDrive\Desktop\ProjectAgriculture\backend\Agriculture\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-08-29T08:30:35.7636534Z;True|2023-08-27T04:14:20.5972202+07:00;True|2023-08-27T04:11:00.9304356+07:00;True|2023-08-26T01:26:41.0270708+07:00;True|2023-08-26T01:24:54.6549942+07:00;True|2023-08-26T00:31:53.3351085+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
